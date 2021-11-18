@@ -1,6 +1,8 @@
 # prerender-nginx
 This is the Prerender.io middleware configuration for an nginx server to allow Google (and other crawlers) to crawl your javascript website.
 
+This file is based on [this](https://gist.github.com/thoop/8165802) and it was updated following the recommendations in the comments
+
 The `nginx.conf` in this repository is full file for __reference__.
 
 Nginx config for
